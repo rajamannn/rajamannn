@@ -1,16 +1,26 @@
-## Hi there 👋
 
-<!--
-**rajamannn/rajamannn** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# 👋 Welcome to My GitHub Profile!
 
-Here are some ideas to get you started:
+Hello! I’m Aman Raj, a passionate Developer based in Delhi. I love to create, innovate, and share knowledge through coding. 
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🚀 About Me
+
+- 🌱 I’m currently learning Python and Java.
+- 💻 I’m currently working on improving my skills.
+- 🎯 I’m looking to collaborate on Machine Learning Projects.
+- 📫 You can reach me at 636amanraj@gmail.com .
+
+## 🔧 Technologies & Tools
+
+Here are some of the technologies I work with:
+
+- **Languages:**C, C++
+- **Tools:** Git, CodeBlock, VSCode
+
+
+## 🤝 Connect with Me
+
+- [LinkedIn](https://www.linkedin.com/in/aman-raj-116826335)
+  
+
+Thank you for visiting my profile! Feel free to reach out or check out my repositories!
