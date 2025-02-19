@@ -14,8 +14,8 @@ Hello! I’m Aman Raj, a passionate Developer based in Delhi. I love to create, 
 
 Here are some of the technologies I work with:
 
-- **Languages:** C, C++
-- **Tools:** Git, CodeBlock, VSCode
+- **Languages:** C, C++, Java, Python
+- **Tools:** Git, CodeBlock, Intellij Idea ,Proteus   VSCode
 
 
 ## 🤝 Connect with Me
