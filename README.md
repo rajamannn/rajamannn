@@ -5,7 +5,7 @@ Hello! I’m Aman Raj, a passionate Developer based in Delhi. I love to create, 
 
 ## 🚀 About Me
 
-- 🌱 I’m currently learning Python and Java.
+- 🌱 I’m currently learning Machine Learning.
 - 💻 I’m currently working on improving my skills.
 - 🎯 I’m looking to collaborate on Machine Learning Projects.
 - 📫 You can reach me at 636amanraj@gmail.com .
@@ -14,7 +14,7 @@ Hello! I’m Aman Raj, a passionate Developer based in Delhi. I love to create, 
 
 Here are some of the technologies I work with:
 
-- **Languages:** C, C++, Java, Python
+- **Languages:** C, C++, Java, Python,
 - **Tools:** Git,Arduino IDE, CodeBlock, Intellij Idea, KiCad ,Proteus , VSCode
 
 
