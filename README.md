@@ -55,5 +55,5 @@ I love to create, innovate, and share knowledge through coding, electronics, and
 ---
 
 ## 🤝 Connect with Me
-- [LinkedIn](https://www.linkedin.com/)  
+- [LinkedIn](in/aman-raj-116826335)  
 - [Email](mailto:636amanraj@gmail.com)  
