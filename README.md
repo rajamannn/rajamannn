@@ -19,7 +19,7 @@ I love to create, innovate, and share knowledge through coding, electronics, and
 ## 🛠 Technologies & Tools
 
 **Languages:**  
-`C` · `C++` · `Java` · `Python` · `VHDL` · *(Basics of Verilog)*  
+`C` · `C++` · `Java` · `Python` · `VHDL` · 
 
 **Electronics & Hardware:**  
 `Arduino` · `KiCad` · `Proteus` · `Electronics Circuit Design` · `Signal Processing`  
